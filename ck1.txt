@@ -2,8 +2,8 @@
     "urls": [
 		
        {"url": "https://ghproxy.com/raw.githubusercontent.com/Ayxezzyj/tv/main/101.txt","name":"🔔豆瓣1"},
-       {"url": "https://jihulab.com/tv5/zz/-/raw/main/102.txt","name":"🔔豆瓣2"},
-       {"url": "https://jihulab.com/tv5/zz/-/raw/main/103.txt","name":"🔔豆瓣3"},
+       {"url": "https://ghproxy.com/raw.githubusercontent.com/Ayxezzyj/tv/main/102.txt","name":"🔔豆瓣2"},
+       {"url": "https://ghproxy.com/raw.githubusercontent.com/Ayxezzyj/tv/main/103.txt","name":"🔔豆瓣3"},
 
        {"url": "https://agit.ai/zqk219/baip/raw/branch/main/Bli/bili.json","name": "bilibili集合"},
 		{"url": "http://我不是.肥猫.love:63/接口禁止贩卖","name": "💖肥猫线路"},
