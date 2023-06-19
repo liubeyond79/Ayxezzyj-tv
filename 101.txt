@@ -65,7 +65,7 @@
 "ext":"https://ghproxy.com/raw.githubusercontent.com/Ayxezzyj/tv/main/token.txt"},
  { "key": "csp_WoGG","name": "FH😹❤️👽玩偶哥哥┃4K", "type": 3,"api": "csp_WoGG",
    "searchable": 1, "quickSearch": 1,"filterable": 1,
- "ext":"https://ghproxy.com/raw.githubusercontent.com/Ayxezzyj/tv/main$$$http://tvfan.xxooo.cf/"},
+ "ext":"https://ghproxy.com/raw.githubusercontent.com/Ayxezzyj/tv/main/token.txt$$$http://tvfan.xxooo.cf/"},
 { "key": "csp_Alist1", "name": "FI😹❤️Alist┃网盘","type": 3, "api": "csp_AList",
   "searchable": 1,"quickSearch": 0, "filterable": 0,"changeable": 0,
     "ext": "https://ghproxy.com/raw.githubusercontent.com/Ayxezzyj/tv/main/alist.txt"},
