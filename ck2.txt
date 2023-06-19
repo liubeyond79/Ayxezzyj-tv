@@ -1,9 +1,9 @@
 {
     "urls": [
 
-{"url": "http://git.gzaiengine.com/zyj/tv/raw/master/101.txt","name":"🔔豆瓣1"},
-{"url": "http://git.gzaiengine.com/zyj/tv/raw/master/102.txt","name":"🔔豆瓣2"},
-{"url": "http://git.gzaiengine.com/zyj/tv/raw/master/103.txt","name":"🔔豆瓣3"},
+{"url": "https://ghproxy.com/raw.githubusercontent.com/Ayxezzyj/tv/main/101.txt","name":"🔔豆瓣1"},
+{"url": "https://ghproxy.com/raw.githubusercontent.com/Ayxezzyj/tv/main/102.txt","name":"🔔豆瓣2"},
+{"url": "https://ghproxy.com/raw.githubusercontent.com/Ayxezzyj/tv/main/103.txt","name":"🔔豆瓣3"},
 
 {"url":"http://www.dmtv.ml/mao/single.json","name":"🔔黄瓜"},
 {"url":"https://agit.ai/hu/hcr/raw/commit/133d3bc995d54288b45e3ec33936841d55193905/%e5%a4%a7%e5%a4%a7%e8%81%aa.txt","name":"🔔白菜"},
