@@ -400,7 +400,7 @@
 "jar": "https://ghproxy.com/raw.githubusercontent.com/Ayxezzyj/tv/main/jar/bili.jar;md5;EFACD6B4B7BE1C47783867C1BF73BC0D",
 "ext": "https://ghproxy.com/raw.githubusercontent.com/Ayxezzyj/tv/main/bili/哔哩车模.json"},
 {"key": "印度舞蹈","name": "🅱️印度舞蹈","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,
-"jar": "https://ghproxy.com/raw.githubusercontent.com/Ayxezzyj/tv/main/jar/bili.jar;md5;EFACD6B4B7BE1C47783867C1BF73BC0D","ext": "https://ghproxy.com/raw.githubusercontent.com/Ayxezzyj/tv/main/bili/印度舞蹈.txt"}
+"jar": "https://ghproxy.com/raw.githubusercontent.com/Ayxezzyj/tv/main/jar/bili.jar;md5;EFACD6B4B7BE1C47783867C1BF73BC0D","ext": "https://ghproxy.com/raw.githubusercontent.com/Ayxezzyj/tv/main/bili/印度歌舞.txt"}
 
 
 ],
