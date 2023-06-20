@@ -16,7 +16,7 @@
       "ext": "https://ghproxy.com/raw.githubusercontent.com/Ayxezzyj/tv/main/js/drpy.js"},
 
  {"key": "直播转点播","name": "📺︎┃电视┃直播","type": 3,
-      "api": "https://jihulab.com/tv5/zz/-/raw/main/js/zbzdb.js",
+      "api": "https://ghproxy.com/raw.githubusercontent.com/Ayxezzyj/tv/main/js/zbzdb.js",
       "searchable": 1,"quickSearch": 0,"filterable": 0,
       "ext": "https://ghproxy.com/raw.githubusercontent.com/Ayxezzyj/tv/main/zb.txt"},
     {"key":"csp_LocalFile","name":"💻本地视频","type":3,"api":"csp_LocalFile",
@@ -400,14 +400,14 @@
 "jar": "https://ghproxy.com/raw.githubusercontent.com/Ayxezzyj/tv/main/jar/bili.jar;md5;EFACD6B4B7BE1C47783867C1BF73BC0D",
 "ext": "https://ghproxy.com/raw.githubusercontent.com/Ayxezzyj/tv/main/bili/哔哩车模.json"},
 {"key": "印度舞蹈","name": "🅱️印度舞蹈","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,
-"jar": "https://ghproxy.com/raw.githubusercontent.com/Ayxezzyj/tv/main/jar/bili.jar;md5;EFACD6B4B7BE1C47783867C1BF73BC0D","ext": "https://ghproxy.com/raw.githubusercontent.com/Ayxezzyj/tv/main/bili/印度歌舞.txt"}
+"jar": "https://ghproxy.com/raw.githubusercontent.com/Ayxezzyj/tv/main/jar/bili.jar;md5;EFACD6B4B7BE1C47783867C1BF73BC0D",
+"ext": "https://ghproxy.com/raw.githubusercontent.com/Ayxezzyj/tv/main/bili/印度歌舞.txt"}
 
 
 ],
 
  "parses": [
     {"name":"解析聚合","type":3,"url":"Demo"},{"name":"Web聚合","type":3,"url":"Web"},
-   
     {"name":"刚刚","type":1,"url":"https://play.fuqizhishi.com/jx1/API.php?appkey=iiiixiaobai&url="},
     {"name":"刚刚聚合","type":1,"url":"https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
     {"name":"OK解析","type":0,"url":"https://okjx.cc/?url="},
@@ -447,9 +447,6 @@
     {"name":"必成","type":1,"url":"https://jisu.rongxingvr.top/api/?key=rCMmoKD0H0ShJ00u2f&url="},
     {"name":"虾米1","type":0,"url":"https://jx.xmflv.com/?url="},
     {"name":"虾米2","type":0,"url":"https://dm.xmflv.com:4433/?url="},
-   
-   
-   
    
    {"name":"1号线","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
     {"name":"2号线","type":0,"url":"https://jx.777jiexi.com/player/?url="},
