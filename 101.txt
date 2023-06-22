@@ -23,10 +23,9 @@
     "searchable":0,"quickSearch":0,"filterable":0,"type_flag":0,
     "jar":"https://ghproxy.com/raw.githubusercontent.com/Ayxezzyj/tv/main/jar/Hk.jar"},
    
-{ "key": "MTV转点播","name": "🎶16万MTV", "type": 3,
-    "api": "http://www.uuneed.cn/ayxzyj/zz/raw/master/js/live.js",
-   
-"ext": "https://jihulab.com/tv5/zz/-/raw/main/live_min.txt"},
+{ "key": "MTV转点播","name": "🎶🍎16万MTV", "type": 3,
+    "api": "https://ghproxy.com/raw.githubusercontent.com/Ayxezzyj/tv/main/js/live.js",
+"ext": "https://ghproxy.com/raw.githubusercontent.com/Ayxezzyj/tv/main/live_min.txt"},
 
 {"key" : "js_好趣","name" : "🛰好趣直播", "type" : 3,
             "api" : "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
