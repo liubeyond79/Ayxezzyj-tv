@@ -22,7 +22,20 @@
     {"key":"csp_LocalFile","name":"💻本地视频","type":3,"api":"csp_LocalFile",
     "searchable":0,"quickSearch":0,"filterable":0,"type_flag":0,
     "jar":"https://ghproxy.com/raw.githubusercontent.com/Ayxezzyj/tv/main/jar/Hk.jar"},
-  {  "key": "TV", "name": "M📕直播┃TV", "type": 3,  "api": "csp_XBPQ", 
+   
+{ "key": "MTV转点播","name": "🎶16万MTV", "type": 3,
+    "api": "http://www.uuneed.cn/ayxzyj/zz/raw/master/js/live.js",
+   
+"ext": "https://jihulab.com/tv5/zz/-/raw/main/live_min.txt"},
+
+{"key" : "js_好趣","name" : "🛰好趣直播", "type" : 3,
+            "api" : "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
+    "jar": "https://jihulab.com/tv5/zz/-/raw/main/小米0616.jar;md5;b4360dbac24e0aba72df8cddf1faf1dc",      
+"ext" : "https://notabug.org/ygfxz/6/raw/main/js/js/好趣.js"},
+
+
+
+{  "key": "TV", "name": "M📕直播┃TV", "type": 3,  "api": "csp_XBPQ", 
             "ext": "https://ghproxy.com/raw.githubusercontent.com/Ayxezzyj/tv/main/dsdb.txt",
                 "jar": "http://w.g9.pub:66/f/oGnSv/%E5%B0%8F%E7%B1%B30616.jar;md5;b4360dbac24e0aba72df8cddf1faf1dc"}, 
  
