@@ -1,7 +1,14 @@
 #Live
 https://ghproxy.com/raw.githubusercontent.com/Ayxezzyj/tv/main/tv.txt
-#zonghe
+#综合频道
 http://www.uuneed.cn/ayxzyj/zz/raw/master/MTV/zonghe.txt
+#mtv1
+http://www.uuneed.cn/ayxzyj/zz/raw/master/MTV/mtv1.txt
+#mtv2
+http://www.uuneed.cn/ayxzyj/zz/raw/master/MTV/mtv2.txt
+#mtv3
+http://www.uuneed.cn/ayxzyj/zz/raw/master/MTV/mtv3.txt
+
 #MTV1-10
 http://www.uuneed.cn/ayxzyj/zz/raw/master/MTV/MTV1-10.txt
 #MTV11-20
@@ -36,3 +43,4 @@ http://www.uuneed.cn/ayxzyj/zz/raw/master/MTV/MTV141-150.txt
 http://www.uuneed.cn/ayxzyj/zz/raw/master/MTV/MTV151-160.txt
 #MTV161-170
 http://www.uuneed.cn/ayxzyj/zz/raw/master/MTV/MTV161-170.txt
+
