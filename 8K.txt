@@ -1,4 +1,4 @@
-CCTV8K,#grnre#
+CCTV8K,#genre#
 CCTV8K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw3737653395_1580816352/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1678665935&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 CCTV8K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 CCTV8K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
@@ -12,7 +12,7 @@ CCTV8K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb05]/ott.mobaibox.com/PLT
 CCTV8K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb05]/ott.mobaibox.com/PLTV/4/224/3221228132/1.m3u8
 CCTV8K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/4/224/3221228132/1.m3u8
 
-CCTV4K,#grnre#
+CCTV4K,#genre#
 CCTV4K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4259108076_496521789/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8?icpid=3&RTS=1658389916&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 CCTV4K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
 CCTV4K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
@@ -24,7 +24,7 @@ CCTV4K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLT
 CCTV4K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/4/224/3221228472/index.m3u8
 CCTV4K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/4/224/3221228141/index.m3u8
 CCTV4K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb15]/ott.mobaibox.com/PLTV/4/224/3221228141/index.m3u8
-4KUHD,#grnre#
+4KUHD,#genre#
 4KUHD,http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/PLTV/4/224/3221228242/1.m3u8
 4KUHD,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/4/224/3221228242/1.m3u8
 4KUHD,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/4/224/3221228228/1.m3u8
@@ -33,12 +33,11 @@ CCTV4K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb15]/ott.mobaibox.com/PLT
 4KUHD,http://[2409:8087:2001:20:2800:0:df6e:eb25]/ott.mobaibox.com/PLTV/4/224/3221228472/1.m3u8
 4KUHD,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228472/1.m3u8
 4KUHD,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/4/224/3221228472/1.m3u8
-4K测试,#grnre#
+4K测试,#genre#
 4K测试,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/4/224/3221228141/1.m3u8
 4K测试,http://[2409:8087:2001:20:2800:0:df6e:eb15]/ott.mobaibox.com/PLTV/4/224/3221228141/1.m3u8
-河南4K,#grnre#
+河南4K,#genre#
 河南4K试验,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
-
 
 
 
