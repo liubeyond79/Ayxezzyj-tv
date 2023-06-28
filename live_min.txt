@@ -1,5 +1,5 @@
 #Live
-https://ghproxy.com/raw.githubusercontent.com/Ayxezzyj/tv/main/tv.txt
+https://ghproxy.com/raw.githubusercontent.com/Ayxezzyj/tv/main/live.txt
 #综合频道
 http://www.uuneed.cn/ayxzyj/zz/raw/master/MTV/zonghe.txt
 #mtv1
