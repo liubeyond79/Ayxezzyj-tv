@@ -35,7 +35,11 @@
             "ext": "https://ghproxy.com/raw.githubusercontent.com/Ayxezzyj/tv/main/gbdb.txt",
       "jar": "http://w.g9.pub:66/f/oGnSv/%E5%B0%8F%E7%B1%B30616.jar;md5;b4360dbac24e0aba72df8cddf1faf1dc"}, 
 
-    
+{"key" : "js_好趣","name" : "🇨🇳好趣直播", "type" : 3,
+            "api" : "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js", 
+"ext" : "https://notabug.org/ygfxz/6/raw/main/js/js/好趣.js"},
+
+
     {"key": "csp_Alist1","name": "🅿Alist┃网盘", "type": 3,"api": "csp_AList", "searchable": 1,
       "quickSearch": 0,"filterable": 0,"changeable": 0,
       "ext": "https://ghproxy.com/raw.githubusercontent.com/Ayxezzyj/tv/main/alist.txt" },
