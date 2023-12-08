@@ -7,7 +7,7 @@
 {"name":"星河直播","url":"https://mirror.ghproxy.com/raw.githubusercontent.com/Ayxezzyj/tv/main/xhtv.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"},
 {"name":"巧记直播","url":"https://mirror.ghproxy.com/raw.githubusercontent.com/Ayxezzyj/tv/main/qjtv.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"},
 {"name":"俊佬直播","url":"http://home.jundie.top:81/ray/tvlive.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"},
-{"name":"一起看直播","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"},
+{"name":"一起看直播","url":"https://mirror.ghproxy.com/raw.githubusercontent.com/Ayxezzyj/tv/main/yiqi.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"},
 {"name":"吾爱直播","url":"https://mirror.ghproxy.com/raw.githubusercontent.com/Ayxezzyj/tv/main/wuai.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"},
 {"name":"玉玉直播","url":"https://mirror.ghproxy.com/raw.githubusercontent.com/Ayxezzyj/tv/main/tvlive.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"}
 ]
