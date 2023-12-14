@@ -27,7 +27,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "http://www.uuneed.cn/ayxzyj/zz/raw/master/zb.txt"
+      "ext": "https://ghproxy.net/raw.githubusercontent.com/Ayxezzyj/tv/main/zb.txt"
     },
     {
       "key": "csp_LocalFile",
