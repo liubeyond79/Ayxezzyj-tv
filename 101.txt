@@ -5,7 +5,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "http://www.uuneed.cn/ayxzyj/zz/raw/master/tv.txt",
+      "url": "https://ghproxy.net/raw.githubusercontent.com/Ayxezzyj/tv/main/tv.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
