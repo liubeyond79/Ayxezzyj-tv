@@ -89,7 +89,7 @@ CCTV13,http://api2.52tb.xyz/info?id=15&token=20230326xflvzc
 CCTV14,http://api2.52tb.xyz/info?id=16&token=20230326xflvzc
 CCTV16,http://api2.52tb.xyz/info?id=18&token=20230326xflvzc
 CCTV17,http://api2.52tb.xyz/info?id=19&token=20230326xflvzc
-🚛卫视频道,#genre#
+卫视频道,#genre#
 延边卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8
 兵团卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
 农林卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8?
@@ -1179,7 +1179,7 @@ yy小品3,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354936198
 春晚2014,https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8	
 春晚2019,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8	
 春晚2020,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4	
-🚛D J 歌 曲,#genre#
+DJ 歌曲,#genre#
 今夜为你醉,https://vdse.bdstatic.com//b68123a666cce39e7413da912e3675a3.mp4
 新歌来了《点燃一根烟》《雪花寄相思》优美歌声值得珍藏,https://vd4.bdstatic.com/mda-ndh6iph1cjnpbx5v/1080p/cae_h264_delogo/1650258726083919516/mda-ndh6iph1cjnpbx5v.mp4
 新歌推荐《今生的唯一》《今夜的雨是谁的眼泪》相当好听,https://vd2.bdstatic.com/mda-ndg6psg9zd12ihzs/1080p/cae_h264_delogo/1650236539803095703/mda-ndg6psg9zd12ihzs.mp4
@@ -1782,7 +1782,7 @@ DJ爆红情歌,https://vd3.bdstatic.com/mda-ndv4c2sjkixp16nw/hd/cae_h264_delogo/
 雪中悍刀行36,https://vip.ffzy-play.com/20221020/2401_dfb0103e/2000k/hls/mixed.m3u8
 雪中悍刀行37,https://vip.ffzy-play.com/20221020/2402_a7082890/2000k/hls/mixed.m3u8
 雪中悍刀行38,https://vip.ffzy-play.com/20221020/2403_855bc85f/2000k/hls/mixed.m3u8
-🚛产科医生,#genre#
+产科医生,#genre#
 产科医生 第一集,https://cdn8.yzzy-tv-cdn.com/20220909/18886_55df9e25/1000k/hls/index.m3u8              
 产科医生 第二集,https://cdn8.yzzy-tv-cdn.com/20220909/18885_0140e11f/1000k/hls/index.m3u8
 产科医生 第三集,https://cdn8.yzzy-tv-cdn.com/20220909/18884_9bdcb6bf/1000k/hls/index.m3u8
@@ -1825,7 +1825,7 @@ DJ爆红情歌,https://vd3.bdstatic.com/mda-ndv4c2sjkixp16nw/hd/cae_h264_delogo/
 产科医生 第四十集,https://cdn8.yzzy-tv-cdn.com/20220909/18924_42a34176/1000k/hls/index.m3u8
 产科医生 第四十一集,https://cdn8.yzzy-tv-cdn.com/20220909/18923_d757f02b/1000k/hls/index.m3u8
 产科医生 第四十二集,https://cdn8.yzzy-tv-cdn.com/20220909/18925_8a33d636/1000k/hls/index.m3u8
-🚛神雕英雄传,#genre#
+神雕英雄传,#genre#
 射雕英雄传第一集,https://data.cache.m3u8.lscsfw.com:3395/cache/20230122/4093_967f7ed8/index.m3u8
 射雕英雄传第二集,https://data.cache.m3u8.lscsfw.com:3395/cache/20230122/4095_1d4ff5e2/index.m3u8
 射雕英雄传第三集,https://data.cache.m3u8.lscsfw.com:3395/cache/20230122/4091_9d559868/index.m3u8
@@ -1926,7 +1926,7 @@ DJ爆红情歌,https://vd3.bdstatic.com/mda-ndv4c2sjkixp16nw/hd/cae_h264_delogo/
 赤焰锦衣卫 第19集,https://vip.lz-cdn14.com/20230419/22006_68ec6a1e/index.m3u8
 赤焰锦衣卫 第20集,https://vip.lz-cdn14.com/20230426/22408_e50e0fc7/index.m3u8
 
-🚛浙江综合,#genre#
+浙江综合,#genre#
 浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
 浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel02/720p.m3u8?zzhed
 浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel02/360p.m3u8?zzhed
