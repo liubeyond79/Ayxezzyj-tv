@@ -14,6 +14,7 @@
 {"name":"小马直播","url":"https://ghproxy.net/raw.githubusercontent.com/Ayxezzyj/tv/main/tv1.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"},
 {"name":"小米直播","url":"https://ghproxy.net/raw.githubusercontent.com/Ayxezzyj/tv/main/tv2.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"},
 {"name":"弯弯直播","url":"https://ghproxy.net/raw.githubusercontent.com/Ayxezzyj/tv/main/tv3.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"},
+{"name":"混合直播","url":"http://www.uuneed.cn/ayxzyj/zz/raw/master/he.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"},
 {"name":"运输车直播","url":"https://ghproxy.net/raw.githubusercontent.com/Ayxezzyj/tv/main/ysclive.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"}
 
 
