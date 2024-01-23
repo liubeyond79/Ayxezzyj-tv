@@ -1,7 +1,7 @@
 {
 "storeHouse": [
-{"sourceName":"💚优选仓","sourceUrl":"https://ghproxy.net/raw.githubusercontent.com/Ayxezzyj/tv/main/ck1.txt"},
-{"sourceName":"💛公众仓","sourceUrl":"https://ghproxy.net/raw.githubusercontent.com/Ayxezzyj/tv/main/ck2.txt"},
-{"sourceName":"❤️聚合仓","sourceUrl":"https://ghproxy.net/raw.githubusercontent.com/Ayxezzyj/tv/main/ck3.txt"}
+{"sourceName":"G💚优选仓","sourceUrl":"https://ghproxy.net/raw.githubusercontent.com/Ayxezzyj/tv/main/ck1.txt"},
+{"sourceName":"G💛公众仓","sourceUrl":"https://ghproxy.net/raw.githubusercontent.com/Ayxezzyj/tv/main/ck2.txt"},
+{"sourceName":"G❤️聚合仓","sourceUrl":"https://ghproxy.net/raw.githubusercontent.com/Ayxezzyj/tv/main/ck3.txt"}
 
 ]}
