@@ -1,8 +1,8 @@
 {
     "urls": [
-      {"url": "https://ghproxy.net/raw.githubusercontent.com/Ayxezzyj/tv/main/101.txt","name":"🔔豆瓣1"},
-       {"url": "https://ghproxy.net/raw.githubusercontent.com/Ayxezzyj/tv/main/102.txt","name":"🔔豆瓣2"},
-       {"url": "https://ghproxy.net/raw.githubusercontent.com/Ayxezzyj/tv/main/103.txt","name":"🔔豆瓣3"},
+      {"url": "https://ghproxy.net/raw.githubusercontent.com/Ayxezzyj/tv/main/101.txt","name":"G🔔豆瓣1"},
+       {"url": "https://ghproxy.net/raw.githubusercontent.com/Ayxezzyj/tv/main/102.txt","name":"G🔔豆瓣2"},
+       {"url": "https://ghproxy.net/raw.githubusercontent.com/Ayxezzyj/tv/main/103.txt","name":"G🔔豆瓣3"},
 
 
 
